@@ -1,4 +1,4 @@
-# 🎓 Activity Points Management System (React.js)
+#  Activity Points Management System (React.js)
 
 A modern, responsive front-end web application for managing and tracking student co-curricular, extracurricular, technical, professional, social, and leadership activity points.
 
@@ -6,7 +6,7 @@ Built according to the **Web Programming Assignment** guidelines and styled with
 
 ---
 
-## 🌟 Visual Theme & Design Inspiration
+##  Visual Theme & Design Inspiration
 
 The user interface is designed in a modern dark-slate aesthetic:
 - **Palette**: Charcoal/slate backgrounds (`#0B0F15`, `#151A23`), subtle borders (`#1F2735`), and neon emerald green accents (`#10B981` / `#00E599`).
@@ -17,7 +17,7 @@ The user interface is designed in a modern dark-slate aesthetic:
 
 ---
 
-## 📋 Features Checklist (Assignment Specifications)
+##  Features Checklist (Assignment Specifications)
 
 - [x] **Student Login Page**: 
   - Login using UID and password, validated against `students.json`.
@@ -62,7 +62,7 @@ The user interface is designed in a modern dark-slate aesthetic:
 
 ---
 
-## 🔑 Sample Student Login Credentials
+##  Sample Student Login Credentials
 
 You can test logging in with any of the following accounts (or click any of the 1-click buttons on the login page):
 
@@ -116,7 +116,7 @@ activiy point/
 
 ---
 
-## 🚀 Getting Started Locally
+##  Getting Started Locally
 
 ### Prerequisites
 - Node.js (v18 or higher recommended)
@@ -143,7 +143,7 @@ activiy point/
 
 ---
 
-## 🌐 Deploying to GitHub Pages
+##  Deploying to GitHub Pages
 
 This project is configured with `gh-pages` and `base: './'` in `vite.config.js`.
 
@@ -174,5 +174,5 @@ To deploy to GitHub Pages:
 
 ---
 
-## 📜 Academic Note
+##  Academic Note
 The activity point rules modeled in this project align with typical technical university guidelines (such as KTU / AICTE), requiring **100 activity points** earned across diverse co-curricular, sports, cultural, social, and technical activities for degree award.
