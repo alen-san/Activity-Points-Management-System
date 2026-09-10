@@ -1,0 +1,54 @@
+[
+  {
+    "uid": "u248010",
+    "password": "pass",
+    "name": "Sarah Jenkins",
+    "email": "sarah.jenkins@campus.edu",
+    "department": "Computer Science & Engineering",
+    "semester": "Semester 6",
+    "batch": "2022 - 2026",
+    "institution": "Institute of Technology & Engineering",
+    "targetPoints": 100,
+    "badge": "Gold Badge",
+    "rank": 1
+  },
+  {
+    "uid": "u248012",
+    "password": "pass",
+    "name": "Mark Chen",
+    "email": "mark.chen@campus.edu",
+    "department": "Electronics & Communication",
+    "semester": "Semester 6",
+    "batch": "2022 - 2026",
+    "institution": "Institute of Technology & Engineering",
+    "targetPoints": 100,
+    "badge": "Silver Badge",
+    "rank": 2
+  },
+  {
+    "uid": "u248018",
+    "password": "pass",
+    "name": "Chloe Dubois",
+    "email": "chloe.dubois@campus.edu",
+    "department": "Mechanical Engineering",
+    "semester": "Semester 6",
+    "batch": "2022 - 2026",
+    "institution": "Institute of Technology & Engineering",
+    "targetPoints": 100,
+    "badge": "Silver Badge",
+    "rank": 3
+  },
+  {
+    "uid": "u248025",
+    "password": "pass",
+    "name": "Alen Sanjith",
+    "email": "alen.sanjith@campus.edu",
+    "department": "Information Technology",
+    "semester": "Semester 6",
+    "batch": "2022 - 2026",
+    "institution": "Institute of Technology & Engineering",
+    "targetPoints": 100,
+    "badge": "Bronze Badge",
+    "rank": 4
+  }
+]

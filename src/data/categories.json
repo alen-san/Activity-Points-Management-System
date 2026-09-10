@@ -1,0 +1,87 @@
+[
+  {
+    "id": "technical",
+    "name": "Technical & Professional Activities",
+    "icon": "Cpu",
+    "maxPoints": 40,
+    "color": "#10b981",
+    "description": "Hackathons, coding challenges, tech paper presentations, published journals, professional certifications, and project expos.",
+    "activities": [
+      { "name": "National Level Hackathon (Winner/Runner-up)", "points": 30 },
+      { "name": "International Journal / IEEE Conference Paper", "points": 25 },
+      { "name": "Industry Recognized Tech Certification", "points": 20 },
+      { "name": "Tech Workshop / Bootcamp Attendance", "points": 10 },
+      { "name": "College Tech Fest Project Display", "points": 15 }
+    ]
+  },
+  {
+    "id": "sports",
+    "name": "Sports & Games",
+    "icon": "Trophy",
+    "maxPoints": 30,
+    "color": "#3b82f6",
+    "description": "Participation and achievements in inter-college, state, university or national level sporting events, athletics, and tournaments.",
+    "activities": [
+      { "name": "University / Inter-University Representation", "points": 25 },
+      { "name": "State Level Tournament Participant/Winner", "points": 20 },
+      { "name": "Inter-Collegiate Sports Tournament Prize", "points": 15 },
+      { "name": "Annual Athletic Meet Participation", "points": 10 }
+    ]
+  },
+  {
+    "id": "cultural",
+    "name": "Cultural Activities",
+    "icon": "Palette",
+    "maxPoints": 30,
+    "color": "#a855f7",
+    "description": "Debate competitions, music, dance, theatrical performances, fine arts, photography, and inter-college cultural fest events.",
+    "activities": [
+      { "name": "Inter-College Fest Cultural Winner", "points": 20 },
+      { "name": "University Youth Festival Participation", "points": 15 },
+      { "name": "Literary / Debate / Quiz Contest Award", "points": 15 },
+      { "name": "College Arts Day Performance", "points": 10 }
+    ]
+  },
+  {
+    "id": "social",
+    "name": "Social Service & Volunteering",
+    "icon": "HeartHandshake",
+    "maxPoints": 30,
+    "color": "#ec4899",
+    "description": "NSS, NCC, Red Cross, blood donation drives, community outreach camps, disaster relief, and environmental initiatives.",
+    "activities": [
+      { "name": "NSS 7-day Special Rural Camp", "points": 25 },
+      { "name": "Community Outreach / Environmental Drive", "points": 15 },
+      { "name": "Blood Donation Camp Coordinator / Donor", "points": 10 },
+      { "name": "Disaster Relief / Community Volunteering", "points": 15 }
+    ]
+  },
+  {
+    "id": "entrepreneurship",
+    "name": "Entrepreneurship & Innovation",
+    "icon": "Rocket",
+    "maxPoints": 30,
+    "color": "#f59e0b",
+    "description": "Startup incubation, IEDC / E-Cell initiatives, patent filings, business model competitions, and prototype development.",
+    "activities": [
+      { "name": "Registered Startup / Incubated Venture", "points": 35 },
+      { "name": "Patent Filing / Granted Innovation", "points": 30 },
+      { "name": "Business Plan Pitch Winner", "points": 20 },
+      { "name": "E-Cell Workshop & Boot Camp", "points": 10 }
+    ]
+  },
+  {
+    "id": "leadership",
+    "name": "Leadership & Management",
+    "icon": "Users",
+    "maxPoints": 30,
+    "color": "#06b6d4",
+    "description": "Elected student council positions, club head/secretary roles, technical fest convening, and peer tutoring.",
+    "activities": [
+      { "name": "Student Council Executive Member", "points": 25 },
+      { "name": "Club President / Secretary / Lead", "points": 20 },
+      { "name": "National Symposium / Tech Fest Convenor", "points": 20 },
+      { "name": "Class Representative / Department Coordinator", "points": 15 }
+    ]
+  }
+]
